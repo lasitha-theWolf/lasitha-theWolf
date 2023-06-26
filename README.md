@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Introducing Lasitha Heenkenda, Undergraduate 2nd year IT student specializing in Software Engineering at SLIIT.
+"Introducing Lasitha Heenkenda, Undergraduate 3rd year IT student specializing in Software Engineering at SLIIT.
 
 
 ## 🌐 Socials:
