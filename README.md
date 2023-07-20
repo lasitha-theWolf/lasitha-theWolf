@@ -25,7 +25,9 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/lasitha-theWolf/lasitha-theWolf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lasitha Heenkenda/Lasitha Heenkenda/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 ###
