@@ -12,9 +12,11 @@
 
 - 📫 How to reach me **lasithaheenkenda23@gmail.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
+###
 
 
 
