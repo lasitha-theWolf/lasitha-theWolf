@@ -15,10 +15,6 @@
 <img align="left" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
-
-<img align="left" height="276" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=lasitha-theWolf&icon=6&color=1)](https://visitcount.itsvg.in)
 
