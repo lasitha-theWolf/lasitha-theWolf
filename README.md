@@ -1,9 +1,5 @@
-<img src="https://github.com/lasitha-theWolf/lasitha-theWolf/assets/127397899/980a081b-d067-484b-be72-c4823dd5968a" alt="web-development-company-in-kochi" width="45%" height="250" style="display:inline-block;">
-<img src="https://github.com/lasitha-theWolf/lasitha-theWolf/assets/127397899/38938714-fe11-4d2e-9317-a0671c5d619d" alt="full-stack-development" width="45%" height="250" style="display:inline-block;">
 
-# 💫 About Me:
-"Introducing Lasitha Heenkenda, Undergraduate 3rd year IT student specializing in Software Engineering at SLIIT.
-
+<h1 align="center">Hi 👋, I'm Harendra Rathnayaka</h1>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lasitha.dilshan.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_wolf_coder_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lasitha-heenkenda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_wolf_code_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCR28QrhWAVN8JJdAPwDZW6A) 
