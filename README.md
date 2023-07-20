@@ -14,6 +14,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasitha-thwWolf&show_icons=true&locale=en&layout=compact" alt="lasitha-thwWolf" /></p>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lasitha-theWolf&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
