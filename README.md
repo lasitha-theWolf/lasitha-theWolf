@@ -1,3 +1,5 @@
+<img src="https://github.com/lasitha-theWolf/lasitha-theWolf/assets/127397899/38938714-fe11-4d2e-9317-a0671c5d619d" alt="full-stack-development" width="45%" height="250" style="display:inline-block;">
+
 # 💫 About Me:
 "Introducing Lasitha Heenkenda, Undergraduate 3rd year IT student specializing in Software Engineering at SLIIT.
 
