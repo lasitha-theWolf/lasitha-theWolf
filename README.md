@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Lasitha Heenkenda</h1>
-<h3 align="center"> Coding the Future | From Vision TO Reality </h3>
+<h3 align="center"> Coding the Future | From Vision To Reality </h3>
 
 
 
