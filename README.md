@@ -12,12 +12,14 @@
 
 - 📫 How to reach me **lasithaheenkenda23@gmail.com**
 
-<img align="left" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<br clear="both">
+
+<img align="left" height="200" src="https://user-images.githubusercontent.com/127397899/247544241-980a081b-d067-484b-be72-c4823dd5968a.gif"  />
 
 ###
 
 <div align="center">
-  <img height="320" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/127397899/247544514-38938714-fe11-4d2e-9317-a0671c5d619d.gif"  />
 </div>
 
 ###
