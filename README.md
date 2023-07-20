@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Lasitha Heenkenda</h1>
 <h3 align="center"> Coding the Future | From Vision TO Reality </h3>
 
-- 📫 How to reach me **lasithaheenkenda23@gmail.com@gmail.com**
+- 📫 How to reach me **lasithaheenkenda23@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lasitha.dilshan.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_wolf_coder_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lasitha-heenkenda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_wolf_code_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCR28QrhWAVN8JJdAPwDZW6A) 
