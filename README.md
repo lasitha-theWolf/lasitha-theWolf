@@ -12,12 +12,11 @@
 
 - 📫 How to reach me **lasithaheenkenda23@gmail.com**
 
-<img align="left" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="left" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
-<div align="right">
-  <img height="200" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP"  />
-</div>
+
+<img align="left" height="276" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 
 ###
 
