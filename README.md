@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Lasitha Heenkenda/Lasitha Heenkenda/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -34,4 +34,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lasitha-theWolf&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
