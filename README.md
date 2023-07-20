@@ -18,9 +18,9 @@
 
 ###
 
-<div >
+
   <img style="display:inline-block;" height="250" src="https://user-images.githubusercontent.com/127397899/247544514-38938714-fe11-4d2e-9317-a0671c5d619d.gif"  />
-</div>
+
 
 ###
 ---
