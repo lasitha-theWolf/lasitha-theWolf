@@ -1,13 +1,6 @@
 
-
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Lasitha;Full-stack-web-developer...)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Lasitha Heenkenda;Full-stack-web-developer...)](https://git.io/typing-svg)
 <h3 align="center"> Coding the Future | From Vision To Reality </h3>
-
-
-
 
 
 ## 🌐 Socials:
