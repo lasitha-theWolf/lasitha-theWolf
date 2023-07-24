@@ -1,11 +1,12 @@
 
-| Centered Typing SVG |
-| --- |
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Lasitha+Heenkenda;Full-stack-web-developer...)](https://git.io/typing-svg) |
+<p style="text-align: center;">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Lasitha;Full-stack-web-developer...)](https://git.io/typing-svg)
+</p>
+
 
 <h3 align="center"> Coding the Future | From Vision To Reality </h3>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Lasitha;Full-stack-web-developer...)](https://git.io/typing-svg)
+
 
 
 
