@@ -1,7 +1,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=30&lines=Hey!+Its+Lasitha+Heenkenda;Full-stack-web-developer..." alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=30&lines=Hey!+Its+Lasitha+Heenkenda;Full-stack-Software-Engineer..." alt="Typing SVG">
     </a>
 </div>
 <h3 align="center"> Coding the Future | From Vision To Reality </h3>
