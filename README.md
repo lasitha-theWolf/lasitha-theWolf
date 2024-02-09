@@ -39,7 +39,14 @@
 - 🌐 Hackerrank Account- **https://www.hackerrank.com/lasithaheenkend1?hr_r=1**
 
 </div>
-
+<div align="center">
+<a href="https://github.com/lasitha-theWolf">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lasitha-theWolf&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lasitha-theWolf&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lasitha-theWolf&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasitha-theWolf&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasitha-theWolf&theme=radical" height="180em" />
+</div>
 
 
 
